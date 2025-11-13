@@ -1,11 +1,11 @@
 /*
- * Ad Soyad: [ADINIZI BURAYA YAZIN]
- * Ogrenci No: [OGRENCI NUMARANIZI BURAYA YAZIN]
- * Tarih: [TARIHI BURAYA YAZIN]
- * Aciklama: Gorev 3 - E-Ticaret Sepet Hesaplayici
- *
- * Bu program 3 adet urunun sepet tutarini
- * KDV, indirim ve kargo dahil hesaplar.
+ * Ad Soyad: Muhammed Metin Kızıl
+ * Ogrenci No: 250541038
+ * Tarih: 10.11.2025
+ * Aciklama: Gorev 1 - Geometrik Sekil Hesaplayici
+ * 
+ * Bu program temel geometrik sekillerin alan ve
+ * cevre hesaplamalarini yapar.
  */
 
 import java.util.Scanner;
