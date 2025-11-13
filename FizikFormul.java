@@ -18,7 +18,7 @@ public class FizikFormul {
     // METOT 1: Hız hesapla (v = s / t)
     public static double calculateVelocity(double distance, double time) {
         // v = mesafe / zaman
-        return distance; // Degistirin
+        return distance / time; // Degistirin
     }
 
     // METOT 2: İvme hesapla (a = Δv / t)
