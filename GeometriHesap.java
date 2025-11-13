@@ -1,7 +1,8 @@
 /*
  * Ad Soyad: Muhammed Metin Kızıl
  * Ogrenci No: 250541038
- * Tarih: 10.11.2025
+ * Tarih: 13
+ .11.2025
  * Aciklama: Gorev 1 - Geometrik Sekil Hesaplayici
  * 
  * Bu program temel geometrik sekillerin alan ve
